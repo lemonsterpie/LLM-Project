@@ -20,5 +20,4 @@ As the model performs a binary classification tasks, the classification metrics 
 
 
 ## Hyperparameters
-(fill in details about which hyperparemeters you found most important/relevant while optimizing your model)
-
+The hyperparameter that optimized the model was the learning rate 
